@@ -1,6 +1,10 @@
 # Subtractive-Synthesis
 An openFrameworks application demonstrating subtractive synthesis.
 
+**Video:** https://vimeo.com/437126382
+
+![](preview.gif)
+
 **Prerequisites:** openFrameworks, ofxMaxim, ofxGui
 
 **Step 1:** Download [openFrameworks](https://openframeworks.cc/download/) and follow the setup guide for your OS and IDE.

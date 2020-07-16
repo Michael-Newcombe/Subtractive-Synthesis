@@ -18,8 +18,6 @@ An openFrameworks application demonstrating subtractive synthesis that contains 
 
 **Step 3:** Create a new project using the projectGenerator, which is located in the directory ```openFrameworks/projectGenerator```. Then using the ```Addons:``` button, add ```ofxGui``` and ```ofxMaxim``` to the project.
 
-**Step 4:** Open the project in your IDE then from inside your IDE delete all the files inside the ```src``` directory.
+**Step 4:** Download or clone this repo then copy the files inside the ```src``` directory of this repo into the ```src``` directory of the project you created.
 
-**Step 5:** Download or clone this repo then copy the files inside the ```src``` directory of this repo into the ```src``` directory of the project you created.
-
-**Step 6:** Compile the project.
+**Step 5:** Compile the project.
